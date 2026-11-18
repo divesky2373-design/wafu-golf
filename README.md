@@ -1,8 +1,8 @@
 # 和风球场
 
-三个洞的和风高尔夫网页游戏。用一笔手势挥杆，靠杆面和甩杆的方向把球打弯；上了果岭读坡推杆。
+十八洞的和风高尔夫网页游戏：富士山、千本鸟居、枯山水、高千穗峡、金阁倒映的镜池……用一笔手势挥杆，靠杆面和甩杆的方向把球打弯，压低的球还能在水面上打水漂；上了果岭读坡推杆。
 
-A free browser golf game in a Japanese landscape: swing with one brush-stroke gesture, shape every shot, read the greens. Chinese and English, mouse or touch.
+A free 18-hole browser golf game through Japanese landscapes — Mount Fuji, a tunnel of torii, a raked dry garden, Takachiho Gorge, the Golden Pavilion on its mirror pond. Swing with one brush-stroke gesture, shape every shot, skip low ones across the water, read the greens. Chinese and English, mouse or touch.
 
 在线玩 / Play: https://divesky2373-design.github.io/wafu-golf/
 
