@@ -2,7 +2,9 @@
 
 三个洞的和风高尔夫网页游戏。用一笔手势挥杆，靠杆面和甩杆的方向把球打弯；上了果岭读坡推杆。
 
-在线玩：https://divesky2373-design.github.io/wafu-golf/
+A free browser golf game in a Japanese landscape: swing with one brush-stroke gesture, shape every shot, read the greens. Chinese and English, mouse or touch.
+
+在线玩 / Play: https://divesky2373-design.github.io/wafu-golf/
 
 - 鼠标：光标移到球上（不用按），向下拉，再向上甩过球
 - 触屏：手指按在球上，向下拉，再向上甩
