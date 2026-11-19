@@ -1,8 +1,8 @@
 # 和风球场
 
-两座十八洞球场的高尔夫网页游戏。和风球场：富士山、千本鸟居、枯山水、高千穗峡、金阁倒映的镜池；桂林山水（水墨画风）：象鼻山、月亮山、溶洞、龙脊梯田、漓江渔火。用一笔手势挥杆，靠杆面和甩杆的方向把球打弯，压低的球还能在水面上打水漂；上了果岭读坡推杆。
+两座十八洞球场的高尔夫网页游戏。和风球场：富士山、千本鸟居、枯山水、高千穗峡、金阁倒映的镜池；桂林山水（水墨画风）：象鼻山、月亮山、暗河岩洞、会把球弹起来的铜鼓、江心的沙洲、水田、龙脊梯田。用一笔手势挥杆，靠杆面和甩杆的方向把球打弯，压低的球还能在水面上打水漂；上了果岭读坡推杆。
 
-A free browser golf game with two 18-hole courses. Japan — Mount Fuji, a tunnel of torii, a raked dry garden, Takachiho Gorge, the Golden Pavilion on its mirror pond. Guilin, in ink wash — skip a ball under Elephant Trunk Hill, fly one through Moon Hill, run it through a cave, tumble down the rice terraces. Swing with one brush-stroke gesture, shape every shot, skip low ones across the water, read the greens. Chinese and English, mouse or touch.
+A free browser golf game with two 18-hole courses. Japan — Mount Fuji, a tunnel of torii, a raked dry garden, Takachiho Gorge, the Golden Pavilion on its mirror pond. Guilin, in ink wash — skip a ball under Elephant Trunk Hill, fly one through Moon Hill, skim it into a river cave, bounce it off a bronze drum, hop from sandbar to sandbar. Swing with one brush-stroke gesture, shape every shot, skip low ones across the water, read the greens. Chinese and English, mouse or touch.
 
 在线玩 / Play: https://divesky2373-design.github.io/wafu-golf/
 
